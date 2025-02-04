@@ -1,7 +1,3 @@
-Below is an example `README.md` file that you can include with your project. It explains the program’s purpose, required dependencies, configuration details for Stockfish 17, usage instructions, and more.
-
----
-
 ```markdown
 # Chess Variation Explorer & Criticality Analyzer
 
