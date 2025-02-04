@@ -1,6 +1,4 @@
----
-
-```markdown
+``` 
 # Chess Variation Explorer & Criticality Analyzer
 
 This Python program uses Stockfish 17 (with NNUE enabled) together with the Lichess Masters openings database to help you explore chess openings. It:
