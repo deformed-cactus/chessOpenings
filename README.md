@@ -1,3 +1,4 @@
+---
 ```markdown
 # Chess Variation Explorer & Criticality Analyzer
 
@@ -65,7 +66,7 @@ This Python program uses Stockfish 17 (with NNUE enabled) together with the Lich
    In your terminal, execute:
 
    ```bash
-   python your_program_file.py
+   python main.py
    ```
 
 2. **Follow the Prompts:**
