@@ -1,5 +1,4 @@
-``` 
-# Chess Variation Explorer & Criticality Analyzer
+ # Chess Variation Explorer & Criticality Analyzer
 
 This Python program uses Stockfish 17 (with NNUE enabled) together with the Lichess Masters openings database to help you explore chess openings. It:
 - Plays an opening line (e.g., the Catalan) based on a predefined dictionary.
@@ -112,6 +111,7 @@ This project is provided for educational and experimental purposes. Feel free to
 - [python-chess](https://github.com/niklasf/python-chess) for a powerful chess library.
 - Lichess for the free and open [openings explorer API](https://explorer.lichess.ovh/).
 - The Stockfish team for their excellent open-source chess engine.
+- o3 mini high
 ```
 
 ---
