@@ -81,7 +81,7 @@ This Python program uses Stockfish 17 (with NNUE enabled) together with the Lich
 
 ## Project Structure
 
-- **`your_program_file.py`**  
+- **`main.py`**  
   The main Python script that integrates:
   - Opening line playback (using a predefined dictionary).
   - Lichess Masters API queries.
